@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F237CB4B-2469-4FE8-943A-36A607B38E29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "080F73C9-0642-403B-A11C-BE385B419228"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipes/Data/Repository/RecipeRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "080F73C9-0642-403B-A11C-BE385B419228 - c54683c8e7d399a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipes.RecipeRepository.fetchRecipes() async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "080F73C9-0642-403B-A11C-BE385B419228 - c54683c8e7d399a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipes.RecipeRepository.fetchRecipes() async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB175D33-B506-49AA-A90E-F370CA113A5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipes/Data/Repository/RecipeRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchRecipe(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB175D33-B506-49AA-A90E-F370CA113A5B - 2f878f293952dc33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipes.RecipeRepository.fetchRecipe(id: Swift.String) async throws -&gt; Recipes.RecipeDetail"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "BB175D33-B506-49AA-A90E-F370CA113A5B - 2f878f293952dc33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipes.RecipeRepository.fetchRecipe(id: Swift.String) async throws -&gt; Recipes.RecipeDetail"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B942F920-7C3D-4607-B727-94CCD1799961"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipes/Data/Repository/RecipeRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "search(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B942F920-7C3D-4607-B727-94CCD1799961 - 54eb87b5a355d534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipes.RecipeRepository.search(with: Swift.String) async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "B942F920-7C3D-4607-B727-94CCD1799961 - 775ebb67c9faa084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipes.RecipeRepository.search(with: Swift.String) async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "B942F920-7C3D-4607-B727-94CCD1799961 - 775ebb67c9faa084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipes.RecipeRepository.search(with: Swift.String) async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "B942F920-7C3D-4607-B727-94CCD1799961 - 8822998535d06836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipes.RecipeRepository.search(with: Swift.String) async throws -&gt; Swift.Array&lt;Recipes.Recipe&gt;"
+                  moduleName = "Recipes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdolenko/Recipes/Recipes/Data/Repository/RecipeRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

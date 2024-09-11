@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "19EC332E-81B3-4243-A7F9-82E12903E082",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Recipes.xcodeproj",
+      "identifier" : "663F42402C8B0CE400854CB6",
+      "name" : "Recipes"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Recipes.xcodeproj",
+        "identifier" : "663F42562C8B0CE600854CB6",
+        "name" : "RecipesTests"
+      }
+    }
+  ],
+  "version" : 1
+}
